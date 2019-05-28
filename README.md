@@ -41,7 +41,7 @@ Both on paper and on screen, I tried to avoid being obsessed with details and pa
 
 ## Illustrations
 Here we start to draw our [[Help:SVG|SVG]] files with Inkscape and using our newly imported photos:
-![Screenshot: On the left a photograph taken by us in Porto; On the right, the February illustration inspired by the photo and done in Inkscape](/img/design-with-floss-image-vector.png)
+![Screenshot: On the left a photograph taken by us in Porto; On the right, the February illustration inspired by the photo and done in Inkscape](/readme-img/design-with-floss-image-vector.png)
 
 #### February
 
